@@ -17,3 +17,7 @@ print("testing merge")
 
 print("added dev feature")
 print("added dev feature2")
+
+#######################
+print("added new feature in feature")
+print("Added more feature in featire1")
